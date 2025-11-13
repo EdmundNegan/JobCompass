@@ -1,0 +1,419 @@
+{
+  "total_jobs": 8,
+  "matched_jobs": 6,
+  "filtered_jobs": 2,
+  "results": [
+    {
+      "job_id": "job_1",
+      "job_title": "Full Stack Developer",
+      "company": "StartupXYZ",
+      "overall_score": 85.6,
+      "is_filtered": false,
+      "filter_reasons": [],
+      "feature_scores": [
+        {
+          "feature_name": "Skills Match",
+          "score": 71.0,
+          "weight": 0.35,
+          "contribution": 24.849999999999998,
+          "explanation": "Matched 4/5 required skills and 2/4 preferred skills"
+        },
+        {
+          "feature_name": "Experience Match",
+          "score": 100.0,
+          "weight": 0.2,
+          "contribution": 20.0,
+          "explanation": "Your 4.0 years of experience fits Mid Level perfectly"
+        },
+        {
+          "feature_name": "Salary Match",
+          "score": 100.0,
+          "weight": 0.15,
+          "contribution": 15.0,
+          "explanation": "Salary range exceeds your minimum by 20%+"
+        },
+        {
+          "feature_name": "Location & Work Mode",
+          "score": 100.0,
+          "weight": 0.15,
+          "contribution": 15.0,
+          "explanation": "Preferred work mode: Remote; Location matches your preferences"
+        },
+        {
+          "feature_name": "Culture Fit",
+          "score": 70.0,
+          "weight": 0.1,
+          "contribution": 7.0,
+          "explanation": "Estimated based on company description and benefits"
+        },
+        {
+          "feature_name": "Growth Potential",
+          "score": 75.0,
+          "weight": 0.05,
+          "contribution": 3.75,
+          "explanation": "Estimated based on role level and company size"
+        }
+      ],
+      "job_to_user_fit": "This Full Stack Developer role at StartupXYZ offers remote work, competitive compensation up to $140,000, and opportunities to leverage your technical skills.",
+      "user_to_job_fit": "With 4.0 years of experience and skills in Python, JavaScript, React, you meet the core requirements for this Mid Level position.",
+      "strengths": [
+        "Experience Match: Your 4.0 years of experience fits Mid Level perfectly",
+        "Salary Match: Salary range exceeds your minimum by 20%+",
+        "Location & Work Mode: Preferred work mode: Remote; Location matches your preferences"
+      ],
+      "concerns": [
+        "No major concerns identified"
+      ],
+      "recommendation": "Highly recommended - strong match across most criteria."
+    },
+    {
+      "job_id": "job_0",
+      "job_title": "Senior Software Engineer",
+      "company": "TechCorp",
+      "overall_score": 84.875,
+      "is_filtered": false,
+      "filter_reasons": [],
+      "feature_scores": [
+        {
+          "feature_name": "Skills Match",
+          "score": 77.49999999999999,
+          "weight": 0.35,
+          "contribution": 27.124999999999993,
+          "explanation": "Matched 5/5 required skills and 1/4 preferred skills"
+        },
+        {
+          "feature_name": "Experience Match",
+          "score": 85.0,
+          "weight": 0.2,
+          "contribution": 17.0,
+          "explanation": "You have 4.0 years, 1.0 years below typical Senior"
+        },
+        {
+          "feature_name": "Salary Match",
+          "score": 100.0,
+          "weight": 0.15,
+          "contribution": 15.0,
+          "explanation": "Salary range exceeds your minimum by 20%+"
+        },
+        {
+          "feature_name": "Location & Work Mode",
+          "score": 100.0,
+          "weight": 0.15,
+          "contribution": 15.0,
+          "explanation": "Preferred work mode: Hybrid; Location matches your preferences"
+        },
+        {
+          "feature_name": "Culture Fit",
+          "score": 70.0,
+          "weight": 0.1,
+          "contribution": 7.0,
+          "explanation": "Estimated based on company description and benefits"
+        },
+        {
+          "feature_name": "Growth Potential",
+          "score": 75.0,
+          "weight": 0.05,
+          "contribution": 3.75,
+          "explanation": "Estimated based on role level and company size"
+        }
+      ],
+      "job_to_user_fit": "This Senior Software Engineer role at TechCorp offers hybrid work, competitive compensation up to $180,000, and opportunities to leverage your technical skills.",
+      "user_to_job_fit": "With 4.0 years of experience and skills in Python, JavaScript, React, you meet the core requirements for this Senior position.",
+      "strengths": [
+        "Salary Match: Salary range exceeds your minimum by 20%+",
+        "Location & Work Mode: Preferred work mode: Hybrid; Location matches your preferences",
+        "Experience Match: You have 4.0 years, 1.0 years below typical Senior"
+      ],
+      "concerns": [
+        "No major concerns identified"
+      ],
+      "recommendation": "Highly recommended - strong match across most criteria."
+    },
+    {
+      "job_id": "job_2",
+      "job_title": "DevOps Engineer",
+      "company": "CloudSolutions Inc",
+      "overall_score": 75.075,
+      "is_filtered": false,
+      "filter_reasons": [],
+      "feature_scores": [
+        {
+          "feature_name": "Skills Match",
+          "score": 49.5,
+          "weight": 0.35,
+          "contribution": 17.325,
+          "explanation": "Matched 3/5 required skills and 1/4 preferred skills"
+        },
+        {
+          "feature_name": "Experience Match",
+          "score": 85.0,
+          "weight": 0.2,
+          "contribution": 17.0,
+          "explanation": "You have 4.0 years, 1.0 years below typical Senior"
+        },
+        {
+          "feature_name": "Salary Match",
+          "score": 100.0,
+          "weight": 0.15,
+          "contribution": 15.0,
+          "explanation": "Salary range exceeds your minimum by 20%+"
+        },
+        {
+          "feature_name": "Location & Work Mode",
+          "score": 100.0,
+          "weight": 0.15,
+          "contribution": 15.0,
+          "explanation": "Preferred work mode: Hybrid; Location matches your preferences"
+        },
+        {
+          "feature_name": "Culture Fit",
+          "score": 70.0,
+          "weight": 0.1,
+          "contribution": 7.0,
+          "explanation": "Estimated based on company description and benefits"
+        },
+        {
+          "feature_name": "Growth Potential",
+          "score": 75.0,
+          "weight": 0.05,
+          "contribution": 3.75,
+          "explanation": "Estimated based on role level and company size"
+        }
+      ],
+      "job_to_user_fit": "This DevOps Engineer role at CloudSolutions Inc offers hybrid work, competitive compensation up to $190,000, and opportunities to leverage your technical skills.",
+      "user_to_job_fit": "With 4.0 years of experience and skills in Python, JavaScript, React, you meet the core requirements for this Senior position.",
+      "strengths": [
+        "Salary Match: Salary range exceeds your minimum by 20%+",
+        "Location & Work Mode: Preferred work mode: Hybrid; Location matches your preferences",
+        "Experience Match: You have 4.0 years, 1.0 years below typical Senior"
+      ],
+      "concerns": [
+        "Skills Match could be stronger: Matched 3/5 required skills and 1/4 preferred skills"
+      ],
+      "recommendation": "Good fit - worth pursuing with some areas to address in interview."
+    },
+    {
+      "job_id": "job_5",
+      "job_title": "Frontend React Developer",
+      "company": "WebApps Ltd",
+      "overall_score": 71.36363636363636,
+      "is_filtered": false,
+      "filter_reasons": [],
+      "feature_scores": [
+        {
+          "feature_name": "Skills Match",
+          "score": 35.0,
+          "weight": 0.35,
+          "contribution": 12.25,
+          "explanation": "Matched 2/4 required skills and 0/4 preferred skills"
+        },
+        {
+          "feature_name": "Experience Match",
+          "score": 100.0,
+          "weight": 0.2,
+          "contribution": 20.0,
+          "explanation": "Your 4.0 years of experience fits Mid Level perfectly"
+        },
+        {
+          "feature_name": "Salary Match",
+          "score": 89.09090909090908,
+          "weight": 0.15,
+          "contribution": 13.363636363636362,
+          "explanation": "Salary meets your minimum requirement"
+        },
+        {
+          "feature_name": "Location & Work Mode",
+          "score": 100.0,
+          "weight": 0.15,
+          "contribution": 15.0,
+          "explanation": "Preferred work mode: Remote; Location matches your preferences"
+        },
+        {
+          "feature_name": "Culture Fit",
+          "score": 70.0,
+          "weight": 0.1,
+          "contribution": 7.0,
+          "explanation": "Estimated based on company description and benefits"
+        },
+        {
+          "feature_name": "Growth Potential",
+          "score": 75.0,
+          "weight": 0.05,
+          "contribution": 3.75,
+          "explanation": "Estimated based on role level and company size"
+        }
+      ],
+      "job_to_user_fit": "This Frontend React Developer role at WebApps Ltd offers remote work, competitive compensation up to $120,000, and opportunities to leverage your technical skills.",
+      "user_to_job_fit": "With 4.0 years of experience and skills in Python, JavaScript, React, you meet the core requirements for this Mid Level position.",
+      "strengths": [
+        "Experience Match: Your 4.0 years of experience fits Mid Level perfectly",
+        "Location & Work Mode: Preferred work mode: Remote; Location matches your preferences",
+        "Salary Match: Salary meets your minimum requirement"
+      ],
+      "concerns": [
+        "Skills Match could be stronger: Matched 2/4 required skills and 0/4 preferred skills"
+      ],
+      "recommendation": "Good fit - worth pursuing with some areas to address in interview."
+    },
+    {
+      "job_id": "job_4",
+      "job_title": "Lead Backend Engineer",
+      "company": "MegaTech",
+      "overall_score": 56.8,
+      "is_filtered": false,
+      "filter_reasons": [],
+      "feature_scores": [
+        {
+          "feature_name": "Skills Match",
+          "score": 27.999999999999996,
+          "weight": 0.35,
+          "contribution": 9.799999999999999,
+          "explanation": "Matched 2/5 required skills and 0/4 preferred skills"
+        },
+        {
+          "feature_name": "Experience Match",
+          "score": 50.0,
+          "weight": 0.2,
+          "contribution": 10.0,
+          "explanation": "You have 4.0 years, 4.0 years below typical Lead"
+        },
+        {
+          "feature_name": "Salary Match",
+          "score": 100.0,
+          "weight": 0.15,
+          "contribution": 15.0,
+          "explanation": "Salary range exceeds your minimum by 20%+"
+        },
+        {
+          "feature_name": "Location & Work Mode",
+          "score": 75.0,
+          "weight": 0.15,
+          "contribution": 11.25,
+          "explanation": "Preferred work mode: Hybrid; Location not in preferred list"
+        },
+        {
+          "feature_name": "Culture Fit",
+          "score": 70.0,
+          "weight": 0.1,
+          "contribution": 7.0,
+          "explanation": "Estimated based on company description and benefits"
+        },
+        {
+          "feature_name": "Growth Potential",
+          "score": 75.0,
+          "weight": 0.05,
+          "contribution": 3.75,
+          "explanation": "Estimated based on role level and company size"
+        }
+      ],
+      "job_to_user_fit": "This Lead Backend Engineer role at MegaTech offers hybrid work, competitive compensation up to $220,000, and opportunities to leverage your technical skills.",
+      "user_to_job_fit": "With 4.0 years of experience and skills in Python, JavaScript, React, you meet the core requirements for this Lead position.",
+      "strengths": [
+        "Salary Match: Salary range exceeds your minimum by 20%+",
+        "Location & Work Mode: Preferred work mode: Hybrid; Location not in preferred list",
+        "Growth Potential: Estimated based on role level and company size"
+      ],
+      "concerns": [
+        "Skills Match could be stronger: Matched 2/5 required skills and 0/4 preferred skills",
+        "Experience Match could be stronger: You have 4.0 years, 4.0 years below typical Lead"
+      ],
+      "recommendation": "Moderate fit - consider if other options are limited."
+    },
+    {
+      "job_id": "job_7",
+      "job_title": "Software Engineering Manager",
+      "company": "InnovateTech",
+      "overall_score": 47.0,
+      "is_filtered": false,
+      "filter_reasons": [],
+      "feature_scores": [
+        {
+          "feature_name": "Skills Match",
+          "score": 0.0,
+          "weight": 0.35,
+          "contribution": 0.0,
+          "explanation": "Matched 0/4 required skills and 0/3 preferred skills"
+        },
+        {
+          "feature_name": "Experience Match",
+          "score": 50.0,
+          "weight": 0.2,
+          "contribution": 10.0,
+          "explanation": "You have 4.0 years, 4.0 years below typical Lead"
+        },
+        {
+          "feature_name": "Salary Match",
+          "score": 100.0,
+          "weight": 0.15,
+          "contribution": 15.0,
+          "explanation": "Salary range exceeds your minimum by 20%+"
+        },
+        {
+          "feature_name": "Location & Work Mode",
+          "score": 75.0,
+          "weight": 0.15,
+          "contribution": 11.25,
+          "explanation": "Preferred work mode: Hybrid; Location not in preferred list"
+        },
+        {
+          "feature_name": "Culture Fit",
+          "score": 70.0,
+          "weight": 0.1,
+          "contribution": 7.0,
+          "explanation": "Estimated based on company description and benefits"
+        },
+        {
+          "feature_name": "Growth Potential",
+          "score": 75.0,
+          "weight": 0.05,
+          "contribution": 3.75,
+          "explanation": "Estimated based on role level and company size"
+        }
+      ],
+      "job_to_user_fit": "This Software Engineering Manager role at InnovateTech offers hybrid work, competitive compensation up to $250,000, and opportunities to leverage your technical skills.",
+      "user_to_job_fit": "With 4.0 years of experience and skills in Python, JavaScript, React, you meet the core requirements for this Lead position.",
+      "strengths": [
+        "Salary Match: Salary range exceeds your minimum by 20%+",
+        "Location & Work Mode: Preferred work mode: Hybrid; Location not in preferred list",
+        "Growth Potential: Estimated based on role level and company size"
+      ],
+      "concerns": [
+        "Skills Match could be stronger: Matched 0/4 required skills and 0/3 preferred skills",
+        "Experience Match could be stronger: You have 4.0 years, 4.0 years below typical Lead"
+      ],
+      "recommendation": "Weak fit - may want to focus on better-matching opportunities."
+    },
+    {
+      "job_id": "job_3",
+      "job_title": "Junior Python Developer",
+      "company": "CodeFactory",
+      "overall_score": 0.0,
+      "is_filtered": true,
+      "filter_reasons": [
+        "Maximum salary $90,000 is below your minimum $110,000"
+      ],
+      "feature_scores": [],
+      "job_to_user_fit": "",
+      "user_to_job_fit": "",
+      "strengths": [],
+      "concerns": [],
+      "recommendation": ""
+    },
+    {
+      "job_id": "job_6",
+      "job_title": "Data Engineer",
+      "company": "DataFlow Systems",
+      "overall_score": 0.0,
+      "is_filtered": true,
+      "filter_reasons": [
+        "Contains dealbreaker keyword: 'no remote work'"
+      ],
+      "feature_scores": [],
+      "job_to_user_fit": "",
+      "user_to_job_fit": "",
+      "strengths": [],
+      "concerns": [],
+      "recommendation": ""
+    }
+  ]
+}
