@@ -1,6 +1,6 @@
 # JobCompass
 
-AI-powered tool that navigates to the right job for you
+AI-powered tool that navigates to the right job for you.
 
 ## Overview
 
